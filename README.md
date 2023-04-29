@@ -858,6 +858,20 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/384997?v=4" valign="middle" height="32px" /><br />
+      GitHub&nbsp;&amp;&nbsp;BitBucket&nbsp;HTML&nbsp;Preview
+    </td>
+    <td>
+      <ul>
+        <li>Many GitHub repositories don't use GitHub Pages to host their HTML files. GitHub & BitBucket HTML Preview allows you to render those files without cloning or downloading whole repositories. It is a client-side solution using a CORS proxy to fetch assets.</li>
+      </ul> 
+    </td>
+    <td>
+      https://htmlpreview.github.io/
+    </td>
+  </tr>
+  <tr>
     <th>
       Name
     </th>
