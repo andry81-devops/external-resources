@@ -76,7 +76,7 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/tanmayrajani/notifications-preview-github/raw/master/media/logo.png" valign="middle" height="32px" /><br />
+      <img src="https://github.com/tanmayrajani/notifications-preview-github/raw/main/media/logo.png" valign="middle" height="32px" /><br />
       Notifications Preview for GitHub
     </td>
     <td>
@@ -400,7 +400,7 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/fabiocchetti/wide-github/raw/master/icons/wide-github-48.png" valign="middle" height="32px" /><br />
+      <img src="https://github.com/fabiocchetti/wide-github/raw/main/assets/Wide-GitHub_Icon.png" valign="middle" height="32px" /><br />
       Wide GitHub
     </td>
     <td>
@@ -774,7 +774,7 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/dword-design/github-latest-release/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
+      <img src="https://github.com/dword-design/github-latest-release/raw/master/public/icon.png" valign="middle" height="32px" /><br />
       GitHub Latest Release
     </td>
     <td>
