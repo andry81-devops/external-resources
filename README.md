@@ -25,10 +25,10 @@
 # Index
 
 * [Browser extensions](#browser-extensions)
-* [External lists](#external-lists)
 * [Extensions integrated into GitHub](#extensions-integrated-into-github)
 * [Obsoleted extensions](#obsoleted-extensions)
 * [External services](#external-services)
+* [External lists](#external-lists)
 
 ## Browser extensions
 
@@ -668,49 +668,6 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
 
 <br />
 
-## External lists
-
-<br />
-
-<table>
-  <tr>
-    <th>
-      Name
-    </th>
-    <th>
-      GitHub link
-    </th>
-    <th>
-      Site link
-    </th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://project-awesome.org/images/logo.png" valign="middle" height="32px" /><br />
-      Awesome browser extensions for GitHub
-    </td>
-    <td>
-      https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme
-    </td>
-    <td>
-      https://project-awesome.org/stefanbuck/awesome-browser-extensions-for-github
-    </td>
-  </tr>
-  <tr>
-    <th>
-      Name
-    </th>
-    <th>
-      GitHub link
-    </th>
-    <th>
-      Site link
-    </th>
-  </tr>
-</table>
-
-<br />
-
 ## Extensions integrated into GitHub
 
 <br />
@@ -837,10 +794,29 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     <td>
       <ul>
         <li>Can filter and order a repository forks by commits ahead/behind additionally to stars/forks count.</li>
-      </ul> 
+      </ul>
     </td>
     <td>
-      https://useful-forks.github.io
+      <ul>
+        <li>https://useful-forks.github.io</li>
+        <li>https://github.com/useful-forks/useful-forks.github.io</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://devnoname120.github.io/useful-forks/assets/favicon.ico" valign="middle" height="32px" /><br />
+      Useful&nbsp;forks
+    </td>
+    <td>
+      <ul>
+        <li>Can filter and order a repository forks by commits ahead/behind <b>together</b> with stars/forks count.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://devnoname120.github.io/useful-forks</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -851,10 +827,12 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     <td>
       <ul>
         <li>Can track of a repository new tags creation additionally to new releases.</li>
-      </ul> 
+      </ul>
     </td>
     <td>
-      https://newreleases.io/
+      <ul>
+        <li>https://newreleases.io/</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -865,10 +843,83 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     <td>
       <ul>
         <li>Many GitHub repositories don't use GitHub Pages to host their HTML files. GitHub & BitBucket HTML Preview allows you to render those files without cloning or downloading whole repositories. It is a client-side solution using a CORS proxy to fetch assets.</li>
-      </ul> 
+      </ul>
     </td>
     <td>
-      https://htmlpreview.github.io/
+      <ul>
+        <li>https://htmlpreview.github.io/</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/68469774?v=4" valign="middle" height="32px" /><br />
+      GitHub&nbsp;analytics&nbsp;for&nbsp;developers
+    </td>
+    <td>
+      <ul>
+        <li>Stores GitHub account and repository static data for more than 14 days.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://yhype.me</li>
+        <li>https://github.com/yhype</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/149378912?v=4" valign="middle" height="32px" /><br />
+      GitHub&nbsp;repo&nbsp;analytics&nbsp;tool without&nbsp;14&nbsp;days&nbsp;limit
+    </td>
+    <td>
+      <ul>
+        <li>📊 Extended Data Tracking: Track repo clones, views, referrers and popular pages data for more than 14 days.</li>
+        <li>✨ Beautiful Visualization: View your repo’s trends with clear, attractive charts.</li>
+        <li>📈 Stars History: Watch your repo’s star growth over time with customizable chart.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://repohistory.com/</li>
+        <li>https://github.com/repohistory</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/HEAD/common/logos/github/github-mark.svg" valign="middle" height="32px" /><br />
+      A&nbsp;different&nbsp;github&nbsp;timeline
+    </td>
+    <td>
+      <ul>
+        <li>Stores GitHub account and repository static data for more than 14 days.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://connectionrequired.com/gitspective</li>
+        <li>https://github.com/zmoazeni/gitspective</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/pomber/git-history/raw/HEAD/vscode-ext/images/icon.png" valign="middle" height="32px" /><br />
+      Git&nbsp;History
+    </td>
+    <td>
+      <ul>
+        <li>Quickly browse the history of a file from any git repository.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://githistory.xyz/</li>
+        <li>https://github.com/pomber/git-history</li>
+        <li>https://github.com/LuisReinoso/git-history-browser-extension</li>
+      </ul>
     </td>
   </tr>
   <tr>
@@ -880,6 +931,61 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     </th>
     <th>
       GitHub/Site link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+## External lists
+
+<br />
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Site link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://www.gharchive.org/assets/img/github.png" valign="middle" height="32px" /><br />
+      GH&nbsp;Archive
+    </td>
+    <td>
+      https://github.com/igrigorik/gharchive.org
+    </td>
+    <td>
+      https://www.gharchive.org/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://project-awesome.org/images/logo.png" valign="middle" height="32px" /><br />
+      Awesome browser extensions for GitHub
+    </td>
+    <td>
+      https://github.com/stefanbuck/awesome-browser-extensions-for-github#readme
+    </td>
+    <td>
+      https://project-awesome.org/stefanbuck/awesome-browser-extensions-for-github
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub link
+    </th>
+    <th>
+      Site link
     </th>
   </tr>
 </table>
