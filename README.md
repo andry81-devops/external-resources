@@ -1,3 +1,4 @@
+<!-- - ->
 <p align="center">
   <a href="https://github.com/andry81-stats/external-resources--gh-stats/commits/master/traffic/views">
     <img src="https://github.com/andry81-cache/andry81-devops--gh-content-cache/raw/master/repo/andry81-devops/external-resources/badges/traffic/views/all.svg" valign="middle" alt="GitHub views|any|total" />
@@ -15,6 +16,7 @@
     <img src="https://github.com/andry81-cache/andry81-devops--gh-content-cache/raw/master/repo/andry81-devops/external-resources/badges/traffic/clones/unq.svg" valign="middle" alt="GitHub clones|unique per day|total" />
     <img src="https://github.com/andry81-cache/andry81-devops--gh-content-cache/raw/master/repo/andry81-devops/external-resources/badges/traffic/clones/unq-14d.svg" valign="middle" alt="GitHub clones|unique per day|14d" /></a>
 </p>
+<!-- -->
 
 <p align="center">
   <a href="https://github.com/andry81/donate"><img src="https://github.com/andry81-cache/gh-content-static-cache/raw/master/common/badges/donate/donate.svg" valign="middle" alt="donate" /></a>
@@ -33,6 +35,8 @@
 ## Browser extensions
 
 List of the FireFox browser (and may be other browsers too) extensions I've found useful in conjunction with the GitHub.
+
+All extensions: https://addons.mozilla.org/firefox/search/?q=github
 
 <br />
 
@@ -71,7 +75,7 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
       https://github.com/freaktechnik/advanced-github-notifier
     </td>
     <td>
-      https://addons.mozilla.org/firefox/addon/advanced-github-notifier
+      https://addons.mozilla.org/firefox/addon/advanced-github-notifier/
     </td>
   </tr>
   <tr>
@@ -211,14 +215,26 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/Shywim/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
+      <img src="https://github.com/pranavmangal/github-repo-size/raw/master/icons/icon.png" valign="middle" height="32px" /><br />
       Github Repository Size
     </td>
     <td>
-      https://github.com/Shywim/github-repo-size
+      https://github.com/pranavmangal/github-repo-size
     </td>
     <td>
-      https://addons.mozilla.org/firefox/addon/github-repo-size/
+      https://addons.mozilla.org/firefox/addon/gh-repo-size/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/deetss/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
+      Github Repository Size
+    </td>
+    <td>
+      https://github.com/deetss/github-repo-size
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/deetss-github-repo-size/
     </td>
   </tr>
   <tr>
@@ -531,6 +547,47 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
 
 <br />
 
+### Pages expander
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/WaffleLapkin/github-no-more/raw/meow/icons/icon.png" valign="middle" height="32px" /><br />
+      Github-no-more
+    </td>
+    <td>
+      https://github.com/WaffleLapkin/github-no-more
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-no-more
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
 ### Forks
 
 <table>
@@ -751,6 +808,47 @@ List of the FireFox browser (and may be other browsers too) extensions I've foun
     </td>
     <td>
       https://addons.mozilla.org/firefox/addon/github-downloads/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Repository Metric
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/Shywim/github-repo-size/raw/master/icon/icon.svg" valign="middle" height="32px" /><br />
+      Github Repository Size
+    </td>
+    <td>
+      https://github.com/Shywim/github-repo-size
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-repo-size/
     </td>
   </tr>
   <tr>
