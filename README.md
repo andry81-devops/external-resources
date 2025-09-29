@@ -363,6 +363,18 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/coderstats/coderstats/raw/master/static/img/coderstats.png" valign="middle" height="32px" /><br />
+      CoderStats link
+    </td>
+    <td>
+      https://github.com/coderstats/fxt_coderstats
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/coderstats/
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/Naramsim/GithubOriginalStreak/raw/master/chrome/icons/g48.png" valign="middle" height="32px" /><br />
       GithubOriginalStreak
     </td>
@@ -1017,6 +1029,23 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
         <li>https://githistory.xyz/</li>
         <li>https://github.com/pomber/git-history</li>
         <li>https://github.com/LuisReinoso/git-history-browser-extension</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/coderstats/coderstats/raw/master/static/img/coderstats.png" valign="middle" height="32px" /><br />
+      Github user statistic
+    </td>
+    <td>
+      <ul>
+        <li>Shows statistic of a GitHub user.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://coderstats.github.io/</li>
+        <li>https://github.com/coderstats/coderstats</li>
       </ul>
     </td>
   </tr>
