@@ -238,6 +238,30 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://github.com/aklinker1/github-better-line-counts/raw/main/public/icon-sm.svg" valign="middle" height="32px" /><br />
+      GitHub: Better Line Counts
+    </td>
+    <td>
+      https://github.com/aklinker1/github-better-line-counts
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-better-line-counts/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/static-server/img/addon-icons/default-64.png" valign="middle" height="32px" /><br />
+      Github Lines of Code
+    </td>
+    <td>
+      https://github.com/pajecawav/ghloc-extension
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-lines-of-code/
+    </td>
+  </tr>
+  <tr>
     <th>
       Name
     </th>
@@ -693,6 +717,18 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   </tr>
   <tr>
     <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2637/2637328-64.png" valign="middle" height="32px" /><br />
+      Follows You GitHub
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/follows-you-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://addons.mozilla.org/user-media/addon_icons/2795/2795265-64.png" valign="middle" height="32px" /><br />
       GitRec
     </td>
@@ -1123,6 +1159,24 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
       <ul>
         <li>https://coderstats.github.io/</li>
         <li>https://github.com/coderstats/coderstats</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/gxr404/github-activity-webext/raw/main/extension/assets/icon.svg" valign="middle" height="32px" /><br />
+      Github user activity
+    </td>
+    <td>
+      <ul>
+        <li>Shows activity of a GitHub user.</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://github-activity-one.vercel.app/</li>
+        <li>https://github.com/gxr404/github-activity</li>
+        <li>https://github.com/gxr404/github-activity-webext</li>
       </ul>
     </td>
   </tr>
