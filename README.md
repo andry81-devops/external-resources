@@ -347,7 +347,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
 
 <br />
 
-### Composite Metrics, Statistic and Analization
+### Composite Metrics, Statistic and Analyzation
 
 <table>
   <tr>
@@ -469,7 +469,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   </tr>
   <tr>
     <td>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2639/2639348-64.png?modified=ffc8d0ef" valign="middle" height="32px" /><br />
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2639/2639348-64.png" valign="middle" height="32px" /><br />
       GitHub WYSIWYG Rich-Text Editor
     </td>
     <td>
@@ -522,7 +522,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   </tr>
   <tr>
     <td>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2663/2663747-64.png?modified=8e5af219" valign="middle" height="32px" /><br />
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2663/2663747-64.png" valign="middle" height="32px" /><br />
       Github Relations
     </td>
     <td>
@@ -586,6 +586,18 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2826/2826132-64.png" valign="middle" height="32px" /><br />
+      Better GitHub
+    </td>
+    <td>
+      -
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/a-better-github/
+    </td>
+  </tr>
+  <tr>
     <th>
       Name
     </th>
@@ -624,6 +636,71 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
     </td>
     <td>
       https://addons.mozilla.org/firefox/addon/lovely-forks/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2782/2782190-64.png" valign="middle" height="32px" /><br />
+      GitHub Active Forks
+    </td>
+    <td>
+      https://github.com/ab2pentest
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-active-forks/
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+</table>
+
+<br />
+
+### Community Enhancements
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+    <th>
+      Mozilla link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/986/986174-64.png" valign="middle" height="32px" /><br />
+      Friendly Github
+    </td>
+    <td>
+      https://github.com/hermanya/friendly-github
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/friendly-github/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2795/2795265-64.png" valign="middle" height="32px" /><br />
+      GitRec
+    </td>
+    <td>
+      https://github.com/gorse-io/gitrec
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/gitrec/
     </td>
   </tr>
   <tr>
@@ -698,7 +775,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   </tr>
   <tr>
     <td>
-      <img src="https://addons.mozilla.org/user-media/addon_icons/2681/2681640-64.png?modified=4de4a554" valign="middle" height="32px" /><br />
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2681/2681640-64.png" valign="middle" height="32px" /><br />
       Material Icons for Github
     </td>
     <td>
