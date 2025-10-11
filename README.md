@@ -308,11 +308,25 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
       Octotree - GitHub code tree
     </td>
     <td>
-      https://github.com/ovity/octotree
-      https://www.octotree.io/
+      <ul>
+        <li>https://www.octotree.io/</li>
+        <li>https://github.com/ovity/octotree</li>
+      <ul>
     </td>
     <td>
       https://addons.mozilla.org/firefox/addon/octotree/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/2813/2813657-64.png" valign="middle" height="32px" /><br />
+      Get Tech Stack
+    </td>
+    <td>
+      https://github.com/Get-Tech-Stack/TechStack
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/get-tech-stack/
     </td>
   </tr>
   <tr>
@@ -740,6 +754,21 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="https://addons.mozilla.org/user-media/addon_icons/511/511962-64.png" valign="middle" height="32px" /><br />
+      Emoji Cheatsheet
+    </td>
+    <td>
+      <ul>
+        <li>http://johannhof.github.io/emoji-helper/</li>
+        <li>https://github.com/johannhof/emoji-helper</li>
+      </ul>
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/emoji-cheatsheet/
+    </td>
+  </tr>
+  <tr>
     <th>
       Name
     </th>
@@ -1061,7 +1090,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   <tr>
     <td>
       <img src="https://avatars.githubusercontent.com/u/384997?v=4" valign="middle" height="32px" /><br />
-      GitHub&nbsp;&amp;&nbsp;BitBucket&nbsp;HTML&nbsp;Preview
+      GitHub&nbsp;&amp;&nbsp;BitBucket HTML Preview
     </td>
     <td>
       <ul>
@@ -1077,7 +1106,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   <tr>
     <td>
       <img src="https://avatars.githubusercontent.com/u/68469774?v=4" valign="middle" height="32px" /><br />
-      GitHub&nbsp;analytics&nbsp;for&nbsp;developers
+      GitHub&nbsp;analytics for&nbsp;developers
     </td>
     <td>
       <ul>
@@ -1094,7 +1123,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   <tr>
     <td>
       <img src="https://avatars.githubusercontent.com/u/149378912?v=4" valign="middle" height="32px" /><br />
-      GitHub&nbsp;repo&nbsp;analytics&nbsp;tool without&nbsp;14&nbsp;days&nbsp;limit
+      GitHub&nbsp;repo&nbsp;analytics tool without 14 days limit
     </td>
     <td>
       <ul>
@@ -1113,7 +1142,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
   <tr>
     <td>
       <img src="https://github.com/andry81-cache/gh-content-static-cache/raw/HEAD/common/logos/github/github-mark.svg" valign="middle" height="32px" /><br />
-      A&nbsp;different&nbsp;github&nbsp;timeline
+      A different Github timeline
     </td>
     <td>
       <ul>
@@ -1177,6 +1206,23 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github
         <li>https://github-activity-one.vercel.app/</li>
         <li>https://github.com/gxr404/github-activity</li>
         <li>https://github.com/gxr404/github-activity-webext</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://shields.io/img/logo.png" valign="middle" height="32px" /><br />
+      Shields.io
+    </td>
+    <td>
+      <ul>
+        <li>Concise, consistent, and legible badges in SVG and raster format </li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>https://shields.io/</li>
+        <li>https://github.com/badges/shields</li>
       </ul>
     </td>
   </tr>
