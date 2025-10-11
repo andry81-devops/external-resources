@@ -36,7 +36,7 @@
 
 List of the FireFox browser (and may be other browsers too) extensions I've found useful in conjunction with the GitHub.
 
-All extensions: https://addons.mozilla.org/firefox/search/?q=github
+All extensions: https://addons.mozilla.org/firefox/search/?q=github&type=extension
 
 <br />
 
