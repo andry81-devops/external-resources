@@ -26,11 +26,197 @@
 
 # Index
 
+* [Git hubs](#git-hubs)
 * [Browser extensions](#browser-extensions)
 * [Extensions integrated into GitHub](#extensions-integrated-into-github)
 * [Obsoleted extensions](#obsoleted-extensions)
 * [External services](#external-services)
 * [External lists](#external-lists)
+
+## Git hubs
+
+<table>
+  <tr>
+    <th>
+      Address
+    </th>
+    <th>
+      Known defaults
+    </th>
+    <th>
+      Known limitations
+    </th>
+    <th>
+      Notes
+    </th>
+  </tr>
+  <tr>
+    <td>
+      https://github.com
+    </td>
+    <td>
+      <ul>
+        <li>Free plan: GitHub actions disables after 60 days of a repository inactivity<br />
+          (Can be manually reenabled or user can reset the timer by a push)</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://sf.net<br />https://sourceforge.net
+    </td>
+    <td>
+      <ul>
+        <li>Force push is disabled<br />
+        (to enable use a script in an ssh login: https://github.com/andry81/gitcmd/tree/HEAD/scripts/git_bare_config_allow_rewrite.sh)</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://gitlab.com
+    </td>
+    <td>
+      <ul>
+        <li>Force push is disabled<br />
+        (can be enabled from a repository settings menu)</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+      https://about.gitlab.com/pricing/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://gitverse.ru
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>Sberbank services oriented, SberID or CloudID is required</li>
+      </ul>
+    </td>
+    <td>
+      https://sourcecraft.dev/portal/docs/en/sourcecraft/pricing
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://sourcecraft.dev
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>Yandex services oriented</li>
+        <li>Free plan: no private repositories</li>
+      </ul>
+    </td>
+    <td>
+      https://sourcecraft.dev/portal/docs/en/sourcecraft/pricing
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://gitflic.ru
+    </td>
+    <td>
+      <ul>
+        <li>Force push is disabled<br />
+          (can be enabled from a repository settings menu)</li>
+      </ul>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://sourcehut.org
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>https://srht.site/limitations/</li>
+        <li>Free plan: creating new repositories has a trial and requires a paid account</li>
+      </ul>
+    </td>
+    <td>
+      https://sourcehut.org/pricing/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://gitea.com
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>Free plan: maximum 5 repositories per owner</li>
+      </ul>
+    </td>
+    <td>
+      https://about.gitea.com/pricing/
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://gitee.com
+    </td>
+    <td>
+    </td>
+    <td>
+      <ul>
+        <li>Chinese specific</li>
+        <li>Requires a mobile phone binding to an account</li>
+        <li>Free plan: maximum 10 projects</li>
+      </ul>
+    </td>
+    <td>
+      https://gitee.com/enterprises/price
+    </td>
+  </tr>
+  <tr>
+    <td>
+      https://tvoygit.ru
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+    <td>
+      gitea fork
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Address
+    </th>
+    <th>
+      Known defaults
+    </th>
+    <th>
+      Known limitations
+    </th>
+    <th>
+      Notes
+    </th>
+  </tr>
+</table>
 
 ## Browser extensions
 
