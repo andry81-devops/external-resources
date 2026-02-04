@@ -425,6 +425,21 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github&type=extensi
   </tr>
   <tr>
     <td>
+      <img src="https://github.com/AminoffZ/github-repo-size/raw/main/assets/github-repo-size-icon256.png" valign="middle" height="32px" /><br />
+      Github Repo Size
+    </td>
+    <td>
+      <ul>
+        <li>https://aminoffz.github.io/github-repo-size/</li>
+        <li>https://github.com/AminoffZ/github-repo-size</li>
+      <ul>
+    </td>
+    <td>
+      https://addons.mozilla.org/firefox/addon/github-repo-size-extension/
+    </td>
+  </tr>
+  <tr>
+    <td>
       <img src="https://github.com/aklinker1/github-better-line-counts/raw/main/public/icon-sm.svg" valign="middle" height="32px" /><br />
       GitHub: Better Line Counts
     </td>
