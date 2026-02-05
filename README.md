@@ -27,6 +27,7 @@
 # Index
 
 * [Git hubs](#git-hubs)
+* [User scripts](#user-scripts)
 * [Browser extensions](#browser-extensions)
 * [Extensions integrated into GitHub](#extensions-integrated-into-github)
 * [Obsoleted extensions](#obsoleted-extensions)
@@ -217,6 +218,52 @@
     </th>
   </tr>
 </table>
+
+## User scripts
+
+### Repository Metric
+
+<table>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Features
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://avatars.githubusercontent.com/u/69045?s=32" valign="middle" height="32px" /><br />
+      Expand Everything
+    </td>
+    <td>
+      <ul>
+        <li>A userscript to click "show more" links to expand all the text on a page, without slowing things down too much.</li>
+        <li>This is distributed as a userscript, so you need a browser extension that runs userscripts.</li>
+      </ul>
+    </td>
+    <td>
+      https://github.com/ludios/expand-everything
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Name
+    </th>
+    <th>
+      Features
+    </th>
+    <th>
+      GitHub/Site link
+    </th>
+  </tr>
+</table>
+
+<br />
 
 ## Browser extensions
 
@@ -1417,7 +1464,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github&type=extensi
     </td>
     <td>
       <ul>
-        <li>Concise, consistent, and legible badges in SVG and raster format </li>
+        <li>Concise, consistent, and legible badges in SVG and raster format.</li>
       </ul>
     </td>
     <td>
