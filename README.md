@@ -1190,7 +1190,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github&type=extensi
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/dword-design/github-latest-release/raw/master/public/icon.png" valign="middle" height="32px" /><br />
+      <img src="https://github.com/dword-design/github-latest-release/raw/master/assets/icon.png" valign="middle" height="32px" /><br />
       GitHub Latest Release
     </td>
     <td>
@@ -1519,7 +1519,7 @@ All extensions: https://addons.mozilla.org/firefox/search/?q=github&type=extensi
   </tr>
   <tr>
     <td>
-      <img src="https://project-awesome.org/images/logo.png" valign="middle" height="32px" /><br />
+      <img src="https://project-awesome.org/images/favicon/favicon-32x32.png" valign="middle" height="32px" /><br />
       Awesome browser extensions for GitHub
     </td>
     <td>
