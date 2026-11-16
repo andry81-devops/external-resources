@@ -58,7 +58,7 @@
     <td>
       <ul>
         <li>Free plan: GitHub actions disables after 60 days of a repository inactivity<br />
-          (Can be manually reenabled or user can reset the timer by a push)</li>
+          (can be manually re enabled or user can reset the timer by a push: https://docs.github.com/en/actions/how-tos/manage-workflow-runs/disable-and-enable-workflows)</li>
       </ul>
     </td>
     <td>
@@ -73,7 +73,7 @@
     <td>
       <ul>
         <li>Force push is disabled<br />
-        (to enable use a script in an ssh login: https://github.com/andry81/gitcmd/tree/HEAD/scripts/git_bare_config_allow_rewrite.sh)</li>
+        (ssh://shell.sf.net access is turned off, you have to use a repo Web page to enable the force push: https://sourceforge.net/p/forge/site-support/28038/)</li>
       </ul>
     </td>
     <td>
