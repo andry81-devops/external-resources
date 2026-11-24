@@ -27,6 +27,7 @@
 # Index
 
 * [Git hubs](#git-hubs)
+* [Star lists](#star-lists)
 * [User scripts](#user-scripts)
 * [Browser extensions](#browser-extensions)
 * [Extensions integrated into GitHub](#extensions-integrated-into-github)
@@ -218,6 +219,35 @@
     </th>
   </tr>
 </table>
+
+## Star lists
+
+<table>
+  <tr>
+    <th>
+      Hub
+    </th>
+    <th>
+      Lists
+    </th>
+  </tr>
+  <tr>
+    <td>
+      GitHub
+    </td>
+    <td>
+      * https://github.com/andry81/?tab=stars
+    </td>
+  </tr>
+  <tr>
+    <th>
+      Hub
+    </th>
+    <th>
+      Lists
+    </th>
+  </tr>
+<table>
 
 ## User scripts
 
